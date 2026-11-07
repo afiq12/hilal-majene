@@ -1,0 +1,34 @@
+{
+  "title": "hilal-majene: reanalysis-driven crescent visibility pipeline",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Agung, Afiq",
+      "affiliation": "Universitas Sulawesi Barat",
+      "orcid": "0000-0002-8698-9459"
+    },
+    {
+      "name": "Arsyad, Aan As'anhar",
+      "affiliation": "Universitas Sulawesi Barat"
+    },
+    {
+      "name": "Marwan",
+      "affiliation": "Universitas Sulawesi Barat"
+    },
+    {
+      "name": "Putriani, Sri",
+      "affiliation": "Universitas Islam Negeri Alauddin Makassar"
+    }
+  ],
+  "description": "Python pipeline and data for the physical visibility of the lunar crescent at Majene, West Sulawesi, with evening-by-evening atmospheric extinction from NASA POWER reanalysis and the Crumey (2014) contrast threshold; test of the MABIMS criterion against Yallop and Odeh, 2000 to 2030.",
+  "keywords": [
+    "lunar crescent visibility",
+    "hilal",
+    "MABIMS",
+    "atmospheric extinction",
+    "NASA POWER",
+    "twilight sky brightness",
+    "contrast threshold"
+  ]
+}

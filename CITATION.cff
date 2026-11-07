@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "hilal-majene: reanalysis-driven crescent visibility pipeline"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+repository-code: "https://github.com/afiq12/hilal-majene"
+authors:
+  - family-names: Agung
+    given-names: Afiq
+    orcid: "https://orcid.org/0000-0002-8698-9459"
+    affiliation: "Universitas Sulawesi Barat"
+  - family-names: Arsyad
+    given-names: "Aan As'anhar"
+    affiliation: "Universitas Sulawesi Barat"
+  - family-names: Marwan
+    affiliation: "Universitas Sulawesi Barat"
+  - family-names: Putriani
+    given-names: Sri
+    affiliation: "Universitas Islam Negeri Alauddin Makassar"
