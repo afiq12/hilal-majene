@@ -1,5 +1,7 @@
 # hilal-majene
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24025239.svg)](https://doi.org/10.5281/zenodo.24025239)
+
 Reanalysis-driven atmospheric extinction and the physical visibility of the lunar crescent at a tropical coastal site.
 Code and data accompanying:
 
