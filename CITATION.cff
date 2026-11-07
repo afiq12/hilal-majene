@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "hilal-majene: reanalysis-driven crescent visibility pipeline"
 version: 1.0.0
+doi: 10.5281/zenodo.24025240
 date-released: 2026-11-07
 license: MIT
 repository-code: "https://github.com/afiq12/hilal-majene"
