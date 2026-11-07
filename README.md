@@ -5,7 +5,6 @@ Code and data accompanying:
 
 > Agung, A., Arsyad, A. A., Marwan, Putriani, S. *Reanalysis-driven atmospheric extinction and the physical visibility of
 > the lunar crescent at a tropical coastal site: an open pipeline and a test of the MABIMS criterion at Majene, Indonesia.*
-> Submitted to Astronomy and Computing (2026).
 
 The pipeline couples a JPL ephemeris (Skyfield) to a Schaefer-type twilight-sky and crescent-contrast model, restated in SI
 photometric units and closed with the contrast-threshold model of Crumey (2014, MNRAS 442, 2600). The visual extinction
